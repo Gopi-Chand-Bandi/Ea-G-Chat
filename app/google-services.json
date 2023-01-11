@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85600104898",
+    "firebase_url": "https://ea-g-chat-default-rtdb.firebaseio.com",
+    "project_id": "ea-g-chat",
+    "storage_bucket": "ea-g-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85600104898:android:cc476119dc72e7ee7d665b",
+        "android_client_info": {
+          "package_name": "com.example.eagchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85600104898-9ni6oseeoanut50hprp1id37kev3vtjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqEFyVQkR-S-5BT7_BuNvYXV_f3Va9_t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85600104898-9ni6oseeoanut50hprp1id37kev3vtjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
