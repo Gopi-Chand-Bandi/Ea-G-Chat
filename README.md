@@ -48,3 +48,7 @@ Forget Password: It is present in Login Screen, Some times we may forget our pas
                  
                               If u want to use my application then you need to integrate it with the firebase in your Android Studio.
                                                            Otherwise it will throw some errors.
+                                                           
+                                                           
+                                                           
+
